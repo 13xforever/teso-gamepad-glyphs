@@ -1,0 +1,12 @@
+{
+    "editor.formatOnPaste": false,
+    "editor.wordWrapColumn": 160,
+    "Lua.codeLens.enable": true,
+    "Lua.runtime.version":"Lua 5.1",
+    "Lua.workspace.library": [
+        "..\\eso-api-lua-intellij-baertram_API101040"
+    ],
+    "Lua.diagnostics.globals": [
+        "RedirectTexture"
+    ]
+}

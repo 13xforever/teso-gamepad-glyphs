@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"editor.wordWrapColumn": 160,
+		"Lua.codeLens.enable": true,
+		"Lua.hint.enable": true,
+		"Lua.hint.setType": true,
+		"editor.formatOnPaste": false
+	}
+}

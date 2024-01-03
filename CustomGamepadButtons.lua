@@ -486,5 +486,4 @@ ButtonsManager.OnAddOnLoaded = function(event, addonName)
     EVENT_MANAGER:UnregisterForEvent(ButtonsManager.name, EVENT_ADD_ON_LOADED)
 end
 
-
 EVENT_MANAGER:RegisterForEvent(ButtonsManager.name, EVENT_ADD_ON_LOADED, ButtonsManager.OnAddOnLoaded)
