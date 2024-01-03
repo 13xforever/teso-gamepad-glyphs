@@ -1,6 +1,6 @@
 -- textures are stored in Game.mnf, you can use ESO Extract to get them
 
-function Set(list)
+local Set = function(list)
     local set = {}
     for _, l in ipairs(list) do set[l] = true end
     return set
